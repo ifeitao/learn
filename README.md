@@ -20,6 +20,7 @@
 ## 计算机
 * [projecteuler](https://github.com/ifeitao/projecteuler)
 * [leetcode](https://github.com/ifeitao/leetcode)
+* [简单编程问题集 SimpleProgrammingProblems](https://github.com/ifeitao/SimpleProgrammingProblems)
 * [freecodecamp-responsive-web-design](https://github.com/ifeitao/freecodecamp-responsive-web-design)
 * [coursera-algorithms coursera 算法](https://github.com/ifeitao/coursera-algorithms)
 * [coursera-cryptocurrency coursera 比特币和数字货币技术](https://github.com/ifeitao/coursera-cryptocurrency)
