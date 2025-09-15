@@ -15,12 +15,12 @@
 这里主要作为目录列出个人的习题解答、笔记、练习性代码等资料。
 
 ## 投资
-* [财务报表分析与证券投资第5版中文版习题解答 penman5e](https://github.com/ifeitao/penman5e)
-* [经济学 Principles-Economics-N-Mankiw](https://github.com/ifeitao/Principles-Economics-N-Mankiw)
+* [penman5e 财务报表分析与证券投资第5版中文版习题解答](https://github.com/ifeitao/penman5e)
+* [Principles-Economics-N-Mankiw 经济学原理](https://github.com/ifeitao/Principles-Economics-N-Mankiw)
 ## 计算机
 * [projecteuler](https://github.com/ifeitao/projecteuler)
 * [leetcode](https://github.com/ifeitao/leetcode)
-* [简单编程问题集 SimpleProgrammingProblems](https://github.com/ifeitao/SimpleProgrammingProblems)
+* [SimpleProgrammingProblems 简单编程问题集](https://github.com/ifeitao/SimpleProgrammingProblems)
 * [freecodecamp-responsive-web-design](https://github.com/ifeitao/freecodecamp-responsive-web-design)
 * [coursera-algorithms coursera 算法](https://github.com/ifeitao/coursera-algorithms)
 * [coursera-cryptocurrency coursera 比特币和数字货币技术](https://github.com/ifeitao/coursera-cryptocurrency)
@@ -28,8 +28,9 @@
 * [coursera-programming-languages coursera 程序设计语言](https://github.com/ifeitao/coursera-programming-languages)
 * [ntuml 台湾大学 机器学习](https://github.com/ifeitao/ntuml)
 * [udacity-cs212 udacity 计算机程序设计](https://github.com/ifeitao/udacity-cs212)
-* [代码大全 code-complete](https://github.com/ifeitao/code-complete)
+* [code-complete 代码大全](https://github.com/ifeitao/code-complete)
 ## 学习
-* [学习科学](https://github.com/ifeitao/learning-sciences)
+* [learning-sciences 学习科学](https://github.com/ifeitao/learning-sciences)
 
 `🚀Live and Learn 🕕Since 2017`
+
