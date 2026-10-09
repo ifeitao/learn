@@ -28,7 +28,7 @@
 * [coursera-programming-languages coursera 程序设计语言](https://github.com/ifeitao/coursera-programming-languages)
 * [ntuml 台湾大学 机器学习](https://github.com/ifeitao/ntuml)
 * [udacity-cs212 udacity 计算机程序设计](https://github.com/ifeitao/udacity-cs212)
-* [code-complete 代码大全](https://github.com/ifeitao/code-complete)
+* [code-complete 代码大全](https://yifeitao.com/code-complete/)
 ## 学习
 * [learning-sciences 学习科学](https://github.com/ifeitao/learning-sciences)
 
